@@ -1,2 +1,6 @@
 #c++ premier exercise
 add some new staff
+
+third modify
+
+add to stage
